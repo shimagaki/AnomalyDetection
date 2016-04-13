@@ -1,0 +1,1 @@
+This project intends to find changing point or anomaly point from the number of data by using the state of the art in Machine Learning.
